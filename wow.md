@@ -38,4 +38,4 @@ int main (void){
 - [x] ![Gitlab logo](https://images.ctfassets.net/xz1dnu24egyd/1hnQd13UBU7n5V0RsJcbP3/769692e40a6d528e334b84f079c1f577/gitlab-logo-100.png)
 - [x] foot note[^1]
 
-[^1] feet
+[^1]: feet
